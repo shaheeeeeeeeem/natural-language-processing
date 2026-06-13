@@ -1,0 +1,9 @@
+accelerate>=1.0
+datasets>=5.0.0,<6
+dill>=0.3.8
+ipykernel>=7
+packaging>=24
+tokenizers>=0.22
+torch>=2.10
+torchmetrics>=1.0
+transformers>=5.0,<6
